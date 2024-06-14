@@ -1,0 +1,3 @@
+[submodule "Lottery"]
+	path = Lottery
+	url = https://github.com/nishantguvvada/Ethereum-Lottery.git
