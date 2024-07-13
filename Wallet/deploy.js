@@ -3,7 +3,7 @@ const { Web3 } = require('web3');
 const { interface, bytecode } = require('./compile');
 
 const provider = new HDWalletProvider(
-    'sustain saddle debate melody stay enact claim viable into bright left airport',
+    [secret phrase],
     'https://sepolia.infura.io/v3/04564008f4c640dda80dac87f76a409e'
 );
 
